@@ -4,9 +4,9 @@ class Box {
   int length, breadth, height;
  public:
   Box() {
-    length = 0;
-    breadth = 0;
-    height = 0;
+    length=0;
+    breadth=0;
+    height=0;
   }
   Box(int l, int b, int h) {
     length = l;
