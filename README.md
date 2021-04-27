@@ -1,2 +1,2 @@
 # HackerRank
-Solution of HackerRank Practice code
+Solutions of HackerRank Practice Code
